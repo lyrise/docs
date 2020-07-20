@@ -14,11 +14,11 @@ enableMissingTranslationPlaceholders = true
 [languages]
 
 [languages.en]
-title = "Omnius Labs"
+title = "Lyrise"
 dateFormat = "Jan. 2, 2006"
 
 [languages.ja]
-title = "Omnius Labs"
+title = "Lyrise"
 dateFormat = "2006年01月02日"
 
 [Params]

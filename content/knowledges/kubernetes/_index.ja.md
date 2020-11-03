@@ -1,3 +1,7 @@
+---
+title: "kubernetes"
+---
+
 ## minikubeを開始する方法
 
 ```sh

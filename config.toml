@@ -23,7 +23,7 @@ title = "Lyrise"
 [languages.ja.params]
 dateFormat = "2006年01月02日"
 
-[Params]
+[params]
 # Souce Code repository section
 description = ""
 github_repository = "https://github.com/lyrise"

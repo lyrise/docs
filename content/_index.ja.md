@@ -2,4 +2,4 @@
 title: "Home"
 ---
 
-# Lyrise Docs
+# Lyrise
